@@ -15,16 +15,16 @@ global.owner = [
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '201222641487',
+ pairingNumber: '201222641487',
+ nameown: 'SNIPER',
+ nomerown: '201020182886',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ author: 'SNIPER BOT',
+ namebot: 'SNIPER',
+ wm: ''-'_꩜ SNIPER BOT ꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickauth: 'SNIPER '
 }
 
 // Thumbnail 
@@ -46,9 +46,9 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/_bcqf',
+ sgh:  'https://egsniper.com',
+ sgc: 'https://chat.whatsapp.com/LIDOQqIfg9q0uNqdJZMtFG'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
@@ -56,7 +56,7 @@ global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *SNIPER Bot*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
