@@ -163,7 +163,6 @@ let handler = async (_0x133891, {
       'search': "search",
       'tools': "tools",
       'owner': "owner",
-      'infobot': "infobot"
     };
   }
   if (_0xaac27 == "drawing") {
@@ -288,7 +287,7 @@ let handler = async (_0x133891, {
     'buttonParamsJson': JSON.stringify(_0x59629b)
   }];
   if (_0xaac27 == "404") {
-    return _0x56de19.sendButtonImg(_0x133891.chat, "https://telegra.ph/file/5dbcf152d3991a9b81f60.jpg", '', _0x26db11.trim(), " ", _0x733b95, _0x133891, {
+    return _0x56de19.sendButtonImg(_0x133891.chat, "https://graph.org/file/04a403b1c0b3198fadf9c.jpg", '', _0x26db11.trim(), " ", _0x733b95, _0x133891, {
       'contextInfo': {
         'mentionedJid': [_0x133891.sender]
       }
@@ -365,9 +364,9 @@ let handler = async (_0x133891, {
     containsAutoReply: true,
     mediaType: 0x1
   };
-  _0x2f3099.thumbnailUrl = "https://telegra.ph/file/b306e14fc211f1e47875a.jpg";
+  _0x2f3099.thumbnailUrl = "https://graph.org/file/04a403b1c0b3198fadf9c.jpg";
   _0x2f3099.mediaUrl = '';
-  _0x2f3099.sourceUrl = "https://instagram.com/noureddine_ouafy";
+  _0x2f3099.sourceUrl = "https://egsniper.com";
   await _0x56de19.sendMessage(_0x133891.chat, {
     'text': _0x6238be,
     'mentions': [_0x133891.sender],
