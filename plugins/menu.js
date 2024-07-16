@@ -131,7 +131,7 @@ import _0x5dad2e from 'moment-timezone';
 import 'os';
 import 'fs';
 const defaultMenu = {
-  'before': "\n> *ᴍʏ ɴᴀᴍᴇ ɪꜱ ꜱɪʟᴀɴᴀ ʙᴏᴛ ɪ'ᴍ ᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴜʟᴛɪᴘʟᴇ ꜱᴇʀᴠɪᴄᴇꜱ. ɪ ᴡᴀꜱ ᴄʀᴇᴀᴛᴇᴅ ʙʏ @ɴᴏᴜʀᴇᴅᴅɪɴᴇ_ᴏᴜᴀꜰʏ*\n\n> ▧ Salam : %name\n> ▧ Uptime : %muptime\n\n%readmore".trimStart(),
+'before': "\n> *𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝚂𝙽𝙸𝙿𝙴𝚁 𝙱𝙾𝚃 𝙸'𝙼 𝙰 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚁𝚃𝙸𝙵𝙸𝙲𝙸𝙰𝙻 𝙸𝙽𝚃𝙴𝙻𝙻𝙸𝙶𝙴𝙽𝙲𝙴. 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝚂𝙴𝚁𝚅𝙸𝙲𝙴𝚂. 𝙸 𝚆𝙰𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 egsniper.com*\n\n> ▧ Salam : %name\n> ▧ Uptime : %muptime\n\n%readmore".trimStart(),
   'header': "❏┄┅━┅┄〈 〘 *%category* 〙\n│",
   'body': "┊▧ %cmd %islimit %isPremium",
   'footer': "│\n┗━═┅═━━┅┄๑\n",
