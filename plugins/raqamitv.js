@@ -15,7 +15,7 @@ let handler = async (m, {
     ]
 
     let [feature, inputs, inputs_, inputs__, inputs___] = text.split("|")
-    if (!lister.includes(feature)) return m.reply("يمكنك الاطلاع على مراجعات الهواتف وآخر أخبار التقنية مع ميزة رقمي تيفي مثال :\n\n*.raqamitv* search|samsung\n\n\nيمكنك مشاهدة هذا الفيديو لتعرف كيف تشغل الميزة : \n\nhttps://www.instagram.com/reel/Cw27Ioar9cg/?igshid=MzRlODBiNWFlZA==\n\n" + lister.map((v, index) => "  ○ " + v).join("\n"))
+    if (!lister.includes(feature)) return m.reply("يمكنك الاطلاع على مراجعات الهواتف وآخر أخبار التقنية مع ميزة رقمي تيفي مثال :\n\n*.raqamitv* search|samsung\n\n\nاذا واجهتك اي مشاكل فيمكنك التواصل معي من هنا : \n\nhttps://egsniper.com \n\n" + lister.map((v, index) => "  ○ " + v).join("\n"))
 
     if (lister.includes(feature)) {
 
