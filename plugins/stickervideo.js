@@ -8,10 +8,10 @@ let handler = async (m, {
     args
 }) => {
     let [tema, urutan, pesan] = text.split(/[^\w\s]/g)
-    if (!tema) return m.reply("مثال : \n .stickervideo car|1|bobiza the best bot\n")
-    if (!urutan) return m.reply("مثال : \n .stickervideo car|1|bobiza the best bot\n")
-    if (isNaN(urutan)) return m.reply("مثال : \n .stickervideo car|1|bobiza the best bot\n")
-    if (!pesan) return m.reply("مثال : \n .stickervideo car|1|bobiza the best bot\n")
+    if (!tema) return m.reply("مثال : \n .stickervideo car|1|SNIPER the best bot\n")
+    if (!urutan) return m.reply("مثال : \n .stickervideo car|1|SNIPER the best bot\n")
+    if (isNaN(urutan)) return m.reply("مثال : \n .stickervideo car|1|SNIPER the best bot\n")
+    if (!pesan) return m.reply("مثال : \n .stickervideo car|1|SNIPER the best bot\n")
     await m.reply('> انتظر ...')
     try {
         let data = await getTemplateImageUrl(tema, urutan, pesan)
@@ -27,7 +27,7 @@ thumbnail: await( await conn.getFile(data.url)).data
   }
  }}, { quoted: m })
         } else {
-            await m.reply("مثال : \n .stickervideo car|1|bobiza the best bot\n" + data)
+            await m.reply("مثال : \n .stickervideo car|1|SNIPER the best bot\n" + data)
         }
     } catch (e) {
         await m.reply('error')
