@@ -265,7 +265,7 @@ let handler = async (_0x133891, {
   let _0x2f985a = clockString(_0x5b4c28);
   let _0x2d8e48 = Object.keys(global.db.data.users).length;
   let _0xf6c410 = Object.values(global.db.data.users).filter(_0x3ef0a1 => _0x3ef0a1.registered == true).length;
-  let _0x26db11 = ("\n> ᴍʏ ɴᴀᴍᴇ ɪꜱ ꜱɪʟᴀɴᴀ ʙᴏᴛ ɪ'ᴍ ᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴜʟᴛɪᴘʟᴇ ꜱᴇʀᴠɪᴄᴇꜱ. ɪ ᴡᴀꜱ ᴄʀᴇᴀᴛᴇᴅ ʙʏ @ɴᴏᴜʀᴇᴅᴅɪɴᴇ_ᴏᴜᴀꜰʏ\n\n\n> ▧ Uptime : " + _0x28d784 + "\n").trimStart();
+  let _0x26db11 = ("\n>𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 𝚂𝙽𝙸𝙿𝙴𝚁 𝙱𝙾𝚃 𝙸'𝙼 𝙰 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚁𝚃𝙸𝙵𝙸𝙲𝙸𝙰𝙻 𝙸𝙽𝚃𝙴𝙻𝙻𝙸𝙶𝙴𝙽𝙲𝙴. 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝚂𝙴𝚁𝚅𝙸𝙲𝙴𝚂. 𝙸 𝚆𝙰𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 egsniper.com\n\n\n> ▧ Uptime : " + _0x28d784 + "\n").trimStart();
   let _0x50a3b5 = [];
   for (let _0xe43987 = 0; _0xe43987 < _0x3e25d1.length; _0xe43987++) {
     let _0x50a550 = {
