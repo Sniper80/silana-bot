@@ -15,14 +15,14 @@ global.owner = [
 global.info = {
  nomerbot: '201222641487',
  pairingNumber: '201222641487',
- nameown: 'SNIPER',
+ nameown: '𝚂𝙽𝙸𝙿𝙴𝚁 𝔖',
  nomerown: '201020182886',
- packname: 'sticker by ',
- author: 'SNIPER BOT',
+ packname: '𝚂𝙽𝙸𝙿𝙴𝚁 𝔖 ',
+ author: '01020182886',
  namebot: 'SNIPER',
- wm: ''-'_꩜ SNIPER BOT ꩜_'-'',
+ wm: ''-'_꩜ 𝚂𝙽𝙸𝙿𝙴𝚁 𝙱𝙾𝚃 ꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'SNIPER '
+ stickauth: '𝚂𝙽𝙸𝙿𝙴𝚁 𝔖 '
 }
 
 // Thumbnail 
@@ -30,16 +30,16 @@ global.url = {
  profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
  did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
  rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
- thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ thumbnail: 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg',
+ thumb: 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg',
+ logo: 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg',
  unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
  registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
  confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
  akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
  wel: 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4', // gif welcome 
  bye: 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4', // gif good bye
- sound: 'https://media.vocaroo.com/mp3/1awgSZYHXP3B' // untuk menu
+ sound: 'https://media1.vocaroo.com/mp3/1crba0C7cT3x' // untuk menu
 }
 
 // Sosmed
@@ -54,7 +54,7 @@ global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *SNIPER Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *𝚂𝙽𝙸𝙿𝙴𝚁 𝙱𝙾𝚃*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
