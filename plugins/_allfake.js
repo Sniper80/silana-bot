@@ -254,9 +254,9 @@ handler.all = async function (_0x439f91) {
     global.ucapan = ucapan();
     global.botdate = date();
     const _0x21b246 = {
-      newsletterJid: "120363285847738492@newsletter",
+      newsletterJid: "https://egsniper.com",
       serverMessageId: 0x67,
-      newsletterName: "📡ping : " + _0xfd7158 + "   © [ قناتي على الواتساب ]    "
+      newsletterName: "📡ping : " + _0xfd7158 + "   © [ My Information  ]    "
     };
     global.adReply = {
       'contextInfo': {
