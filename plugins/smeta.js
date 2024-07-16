@@ -1,7 +1,7 @@
 const { default: { Image }} = await import('node-webpmux')
 
 let handler = async (m, { conn, text }) => {
-  if (!m.quoted) throw 'هذا الأمر يخول لك ان تمسح حقوق اي ملصق يكفي فقط ان ترسل للبوت الملصق الذي سوف تحذف حقوقه ثم تشير له و تكتب هكذا \n\n*.smeta*'
+  if (!m.quoted) throw 'هذا الأمر يسمح لك ان تغير حقوق اي ملصق يكفي فقط ان ترسل للبوت الملصق الذي سوف تحذف حقوقه ثم تشير له و تكتب هكذا \n\n*.smeta*'
   let stiker = false
   try {
     let [packname, ...author] = text.split('|')
