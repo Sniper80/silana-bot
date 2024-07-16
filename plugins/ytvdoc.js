@@ -1,7 +1,7 @@
 import ytdl from "ytdl-core";
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-  if (!text) return m.reply(`*تحميل فيديوهات اليوتوب*\nمثال:\n${usedPrefix + command} https://www.youtube.com/watch?v=LrsNYeLqRAU&t=0`);
+  if (!text) return m.reply(`*تحميل فيديوهات اليوتوب*\nمثال:\n${usedPrefix + command} https://m.youtube.com/watch?v=qfDPz7DZDes`);
   conn.sendMessage(m.chat, { react: { text: '😄', key: m.key }})
   let obj = await ytmp3(text);
   let title = obj.meta.title;
